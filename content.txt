@@ -1,0 +1,995 @@
+Ola, Sou o Bot Rata 🐭
+Desenvolvido pelas Alunas Raquel e Thalita 
+de Análise Desenvolvimento de Sistemas - Professor Carlos
+
+Estamos aqui para te ajudar a encontrar as informações rápidas sobre a Fatec Ribeirão Preto 🚀
+
+Digite Rata a qualquer momento e voltará ao menu principal
+
+⚡ Informações + rapidas sobre a sala de aula:
+// Digite Nome da disciplina e nome do professor
+
+/cursos 
+/secretaria
+/eventos
+/matricula
+/humor.
+
+Matricula:
+Vestibular 2º Semestre de 2023
+Inscrições 12-0 a 02-06 
+Exame 25-06 as 13h
+Solicitações de isenção e Redução da taxa de Inscrição
+03 a 11 de abril.
+
+Entre em contato com a secretaria sobre qualquer duvida
+Telefone: (16) 3919-1871
+email: contato@fatecrp.edu.br
+site: http://www.fatecrp.edu.br/.
+
+Sem novos eventos no momento.
+
+Se vc detectou algum erro, por favor entre em contato:
+@thalita_helena.
+
+
+Cursos Diurno:
+/ADSManha - Análise Desenvolvimento de Sistemas
+
+Cursos Noturnos:
+/ADSNoturno - Análise Desenvolvimento de Sistemas
+/SB - Sistemas Biomédicos
+/GNI- Gestão de negócios e inovação.
+
+
+Horário de aulas:
+Informe qual curso vc quer saber informações
+/ADSManha - Análise Desenvolvimento de Sistemas
+/ADSNoturno - Análise Desenvolvimento de Sistemas
+/SB - Sistemas Biomédicos
+/GNI- Gestão de negócios e inovação.
+
+
+Selecione o seu semestre ADSManha:
+/1 semestre ADSManha
+/2 semestre ADSManha
+/3 semestre ADSManha
+/4 semestre ADSManha
+/5 semestre ADSManha
+/6 semestre ADSManha.
+
+Selecione o seu semestre ADSNoturno:
+/1o semestre ADSNoturno
+/2o semestre ADSNoturno
+/3o semestre ADSNoturno
+/4o semestre ADSNoturno
+/5o semestre ADSNoturno 
+/6o semestre ADSNoturno.
+
+SB - Selecione o seu semestre:
+/Primeiro - 1º semestre SB 
+/Segundo - 2º semestre SB 
+/Terceiro - 3º semestre SB 
+/Quarto - 4º semestre SB 
+/Quinto - 5º semestre SB  
+/Sexto - 6º semestre SB.
+
+GNI - Selecione o seu semestre:
+/1GNI - 1º semestre GNI 
+/2GNI - 2º semestre GNI 
+/3GNI - 3º semestre GNI 
+/4GNI - 4º semestre GNI 
+/5GNI - 5º semestre GNI  
+/6GNI - 6º semestre GNI.
+
+ADS:
+/Manha - Análise Desenvolvimento de Sistemas (ADS)
+/Noturno - Análise Desenvolvimento de Sistemas (ADS).
+
+Selecione o seu semestre ADSManha:
+/1 semestre Manha
+/2 semestre Manha
+/3 semestre Manha
+/4 semestre Manha
+/5 semestre Manha
+/6 semestre Manha.
+
+Selecione o seu semestre ADSNoturno:
+/1o semestre Noturno
+/2o semestre Noturno
+/3o semestre Noturno
+/4o semestre Noturno
+/5o semestre Noturno 
+/6o semestre Noturno.
+
+
+-----------------------------
+1: Informações do 1 semestre Manha:
+Segunda 
+Aula: ADM Geral
+Prof: Francisco 
+Horário: 7h40 as 11h10
+Sala-2 Andar-1
+---
+Terca: 
+Aula: Programação de Micro
+Prof: Geraldo
+Horário:9h30 as 13h
+Laboratório-1 Andar-1
+---
+Quarta:
+Horário: 7h40 as 9h20
+Aula: Laboratório de Hardware
+Prof: Carlos
+Sala-16 Andar-1 ou LR Andar-2
+
+Horário: 9h30 as 13h
+Aula: Algoritmo e Linguagem de Programação
+Prof: Lucas
+Sala-7 Andar-1 
+---
+Quinta:
+Horário: 7h40 - 11h10
+Aula: Matemática Discreta
+Prof: Júnior
+Sala-22 Andar-1
+
+Horário: 11h20 - 13h
+Aula: Ingles I
+Prof: Anna
+Sala-20 Andar-1
+---
+Sexta:
+Aula: AOC
+Prof: Carlos
+Horário:9h30 - 13h
+Sala-16 Andar-2.
+-----------------------------.
+
+----------------------------------
+2: Informações do 2 semestre ADSManha:
+Segunda 
+Horário: 7h40 as 9h20
+Aula: Contabilidade
+Prof: Silvania
+Sala-6 Andar-1
+
+Horário: 9h30 as 13h
+Aula: Cálculo
+Prof: Júnior
+Sala-22 Andar-3
+---
+Terça: 
+Horário: 9h30 as 13h
+Aula: Comunicação e Expressão
+Prof: Carlos N
+Sala-2 Andar-1
+---
+Quarta:
+Horário: 9h30 as 13h
+Aula: Linguagem de Programação
+Prof: Fernando
+Laboratório-6 Andar-2 
+---
+Quinta:
+Horário: 9h30- 10h20
+Aula: Ingles II
+Prof: Anna
+Sala-20 Andar-1
+
+Horário: 11h20 - 13h
+Aula: Sistemas de Informação
+Prof: Carlos
+Sala-16 Andar-2
+
+---
+Sexta:
+Horário:7h40 - 9h20
+Sistemas de Informação
+Prof: Carlos
+Sala-16 Andar-2
+
+Horário:9h30 - 13h
+Aula: Engenharia de Soft
+Prof: Plotze
+Laboratório-3 Andar-3.
+----------------------------------
+
+3: Informações do 3 semestre ADSManha:
+Segunda 
+Horário: 9h30 as 13h
+Aula: Estatistica 
+Prof: Valéria
+Sala-10 Andar-2
+---
+Terca: 
+Horário: 9h30 as 13h
+Aula: SO1
+Prof: Marcos
+Sala-5 Andar-1
+---
+Quarta:
+Horário: 7h40 as 11h10
+Aula: Engenharia de Software
+Prof: Plotze
+Lab-5 Andar-1 
+
+Horário: 11h10 as 13h
+Aula: Soc Tec
+Prof: Santa fé
+Sala-6 Andar-1 
+
+---
+Quinta:
+Horário: 9h30 - 11h10
+Aula: IHC
+Prof: Fabricio
+Lab-2 Andar-3
+
+Horário: 11h10 - 13h
+Aula: Economia e Finanças
+Prof: Fernandinha
+Sala-14 Andar-2
+
+---
+Sexta:
+Horário: 7h40-9h20 retorna 11h20-13h 
+Aula: ED
+Prof: XGNI
+Lab-2 Andar-3
+
+Horário: 9h30-11h10 
+Aula: Ingles III
+Prof: Anna
+Sala-20 Andar-1
+----------------------------------.
+
+----------------------------------
+4: Informações do 4 semestre ADSManha:
+Segunda 
+Horário: 7h40 as 9h20
+Aula: Inglês IV
+Prof:  Anna
+Sala-20 Andar-1
+
+Horário: 11h20 as 13h
+Aula: MPCT
+Prof:  Claudia
+Laboratório-1 ou Sala-8 Andar-1
+
+---
+Terca: 
+Horário: 7h40 as 11h10
+Aula: Prog O o
+Prof: Tanaka
+LR ou Sala-4 Andar-1
+---
+Quarta:
+Horário: 7h40 as 11h10
+Aula: BD
+Prof: Geraldo
+Sala-16 Andar-1 ou LR Andar-2
+
+Horário: 11h10 as 12h10
+Aula: Dispositivos móveis 
+Prof: Plotze
+Lab-5 Andar-1 
+---
+Quinta:
+Horário: 7h40 - 9h20
+Aula: Dispositivos móveis 
+Prof: Plotze
+Lab-5 Andar-1 
+
+Horário: 9h30 - 13h
+Aula: SO II
+Prof: Marcos A
+LR Andar-1 
+
+---
+Sexta:
+Horário: 7h40 - 11h10
+Aula: Engenharia de Software III
+Prof: Fabricio
+LR Andar-1
+----------------------------------.
+
+
+----------------------------------
+5: Informações do 5 semestre ADSManha:
+Segunda 
+Horário: 7h40 as 11h10
+Aula: Programação Web
+Prof: Tanaka
+Lab-3 Andar-3
+
+Horário: 11h10 13h
+Aula: Inglês V
+Prof: Anna
+Sala-20 Andar-1
+---
+Terca: 
+Horário: 7h40 as 11h10
+Aula: Programação Aplicada
+Prof: Júnior
+Laboratório-3 Andar-3
+
+Horário: 11h10 13h
+Aula: Seg Inf
+Prof: Carlos E
+L3 ou Sala-16 Andar-2
+
+---
+Quarta:
+Horário: 9h30 as 13
+Aula: Redes Comp
+Prof: Marcos A
+Sala-5 Andar-1 
+
+---
+Quinta:
+Horário: 7h40 - 11h10
+Aula: Laboratório de Engenharia de Software
+Prof: Débora
+Lab-3 Andar-3
+---
+Sexta:
+Horário: 9h30 - 13h
+Aula: Lab BD
+Prof: Geraldo
+Lab-11 Andar-1
+----------------------------------.
+
+----------------------------------
+6: Informações do 6 semestre ADSManha:
+Segunda 
+Horário: 7h40 as 11h10
+Aula: Top Esp Inf
+Prof: Fabricio
+Lab-6 Andar-2
+
+Horário: 11h10 as 13h
+Aula: E Resp Prof 
+Prof: Maria Rafaela
+Sala-11 Andar-2
+---
+Terca: 
+Horário: 9h30 as 11h10
+Aula: Gest Equipes
+Prof: Suzana
+Sala-3 Andar-1
+---
+Quarta:
+Horário: 9h30 as 13h
+Aula: Gest Gov TI
+Prof: Fabricio
+Lab-3 Andar-3
+---
+Quinta:
+Horário: 7h40 - 11h10
+Aula: Gestão de Projetos
+Prof: Tanaka
+Lab-6 Andar-2
+---
+Sexta:
+Horário: 7h40 - 11h10
+Aula: Inteligencia Artificial
+Prof: Tanaka
+Lab-6 Andar-2
+----------------------------------.
+
+GNI - Selecione o seu semestre:
+/1GNI - 1º semestre GNI 
+/2GNI - 2º semestre GNI 
+/3GNI - 3º semestre GNI 
+/4GNI - 4º semestre GNI 
+/5GNI - 5º semestre GNI  
+/6GNI - 6º semestre GNI.
+
+
+-----------------------------
+1GNI: 
+Informações do 1º semestre 1GNI:
+Segunda 
+Aula: Gestão e Inovação
+Prof: João Paulo
+Horário: 19h as 20h40
+Sala-6 Andar-1
+
+Aula: Ingles I
+Prof: Cláudia
+Horário: 20h50 as 22h30
+Sala-8 Andar-1
+---
+Terça
+Aula: ADM 
+Prof: Rinaldo
+Horário: 19h as 22h30
+Sala-6 Andar-1
+---
+Quarta
+Horário: 19h as 22h30
+Aula: Emp e Inov
+Prof: Suzana
+Sala-10 Andar-2
+---
+Quinta
+Horário: 19h as 22h30
+Aula: Com Emp
+Prof: Fernando
+Sala 10 Andar-2
+---
+Sexta
+Aula: Cálculo
+Prof: Gustavo
+Horário:19h as 22h30
+Sala 14 Andar-2
+---
+Sábado
+Aula: Prosp B Inf Tec
+Prof: Fernando P
+Horário:7h40 - 11h10
+L-6 Andar-2
+-----------------------------.
+
+-----------------------------
+2GNI: 
+Informações do 2º semestre 2GNI:
+Segunda 
+Aula: Economia
+Prof: Fernandinha
+Horário: 19h as 23h30
+Sala-14 Andar-2
+---
+Terça: 
+Aula:MKT e Inov
+Prof: Suzana
+Horário: 19h as 22h30
+Sala-14 Andar-2
+---
+Quarta:
+Horário: 19h as 22h30
+Aula: Estatistica
+Prof: Viviane F
+Sala-2 Andar-1
+---
+Quinta:
+Horário: 19h as 22h30
+Aula: Leg Emp e PI
+Prof: Maria Rafaela
+Sala-11 Andar-2
+---
+Sexta:
+Aula: Inglês II
+Prof: Claudia
+Horário:19h as 20h40
+Sala-8 Andar-1
+
+Aula: PI II - Gest e Inovação
+Prof: Luciana
+Horário: 20h50 - 22h30
+Sala-16 Andar-2
+---
+Sábado
+Aula: Prosp Neg
+Prof: Adriano
+Horário:9h30 - 13h
+S-18 Andar-3.
+-----------------------------.
+
+-----------------------------
+3GNI: 
+Informações do 3º semestre 3GNI:
+Segunda 
+Aula: G Ciclo Vida Prod
+Prof: Suzana
+Horário: 19h as 23h30
+Sala-3 Andar-1
+---
+Terça: 
+Aula: Leg Trib 
+Prof: Maria Rafaela
+Horário: 19h as 22h30
+Sala 11 Andar-2
+---
+Quarta:
+Horário: 19h as 20h40
+Aula:PI III - Gest e Inovação
+Prof: Renato
+Sala 12 Andar-2
+
+Aula: Inglês III
+Prof: Claudia
+Horário: 20h50 - 22h30
+Sala 8 Andar-1
+---
+Quinta:
+Horário: 19h as 22h30
+Aula: G Mod Prot Neg
+Prof: Adriano
+Sala 18 Andar-3
+---
+Sexta:
+Aula: Pesq. Operação
+Prof: Júnior
+Horário: 19h as 22h30
+L5 Andar-1 - S22 Andar-2
+---
+Sábado
+Aula: Contab Ger
+Prof: Leandro
+Horário: 7h40 - 11h10
+S12 Andar-2
+-----------------------------.
+
+-----------------------------
+4GNI: 
+Informações do 4º semestre 4GNI:
+Segunda 
+Aula: Leg T Calc enc
+Prof: Maria Rafaela
+Horário: 19h as 23h30
+Sala 11 Andar-2
+---
+Terça: 
+Aula: Novas Tec Dig
+Prof: Fernando P
+Horário: 19h as 22h30
+L6 Andar-2
+---
+Quarta:
+Horário: 19h as 22h30
+Aula: Log Empr
+Prof: Isabel
+Sala 15 Andar-2
+---
+Quinta:
+Aula: Gest Proj
+Prof: Fenando P
+Horário: 19h as 22h30
+L6 Andar-2
+---
+Sexta:
+Aula: PI IV - Gestão e Inovação
+Prof: Luciana
+Horário: 19h as 20h40
+S16 Andar-2
+---
+Sábado
+Aula: Gest Fin Custos
+Prof: Fernandina
+Horário: 7h40 - 11h10
+S14 Andar-2
+
+Aula: Inglês IV
+Prof: Claudia
+Horário: 11h20 - 13h
+S20 Andar-1
+-----------------------------.
+
+-----------------------------
+5GNI: 
+Informações do 5º semestre 5GNI:
+Segunda 
+Aula: Gest Op Serv
+Prof: Isabel
+Horário: 19h as 23h30
+Sala 15 Andar-2
+---
+Terça: 
+Aula: Gest Mat
+Prof: Glauco
+Horário: 19h as 22h30
+S8 Andar-1
+---
+Quarta:
+Horário: 19h as 22h30
+Aula: Invest e Fin
+Prof: Fernandina
+Sala 14 Andar-2
+---
+Quinta:
+Aula: Espanhol I
+Prof: Cássia
+Horário: 19h as 20h40
+S3 Andar-1
+
+Aula: Inglês V
+Prof: Claudia
+Horário: 20h50 - 22h30
+S8 Andar-1
+---
+Sexta:
+Aula: Gest Varejo
+Prof: Adriano
+Horário: 19h as 22h30
+S18 Andar-3
+---
+Sábado
+Aula: Ética 
+Prof: Maria Rafaela
+Horário: 9h30 - 11h10
+S11 Andar-2
+
+Aula: PI V
+Prof: Francisco
+Horário: 11h20 - 13h
+S6 Andar-1
+-----------------------------.
+
+-----------------------------
+6GNI: 
+Informações do 6º semestre 6GNI:
+Segunda 
+Aula: G Masrcas
+Prof: Adriano
+Horário: 19h as 23h30
+Sala 18 Andar-3
+---
+Terça: 
+Aula: Neg Inter
+Prof: Isabel
+Horário: 19h as 22h30
+S15 Andar-2
+---
+Quarta:
+Horário: 19h as 22h30
+Aula: Pol Pub
+Prof: Luciana
+Sala 11 Andar-2
+---
+Quinta:
+Aula: Inglês VI
+Prof: Claudia
+Horário: 19h as 20h40
+S8 Andar-1
+
+Aula: Espanhol I
+Prof: Cássia
+Horário: 20h50 - 22h30
+S-3 Andar-1
+---
+Sexta:
+Aula: Negociação
+Prof: Renato
+Horário: 19h as 20h40
+S12 Andar-2
+
+Aula: PI VI
+Prof: Renato
+Horário: 20h50 - 22h30
+S12 Andar-2
+---
+Sábado
+Aula: Coaching emp 
+Prof: Renato
+Horário: 9h30 - 13h
+S10 Andar-2
+-----------------------------.
+
+-----------------------------
+Primeiro semestre:
+SB: Informações do primeiro semestre :
+Segunda 
+Aula: Quimica Geral
+Prof: Layciane
+Horário: 19h as 23h30
+Sala-2 Andar-1
+---
+Terça: 
+Aula: Eletricidade
+Prof: Laercio
+Horário: 19h as 22h30
+S12 Andar-2
+---
+Quarta:
+Horário: 19h as 20h40
+Aula: Fis Ap Med I
+Prof: Andrés
+Sala 13 Andar-2
+
+Horário: 20h50 - 22h30
+Aula: Com e ExpI
+Prof: Carlos N
+Sala 12 Andar-2
+---
+Quinta:
+Aula: Bio Cel Micro
+Prof: Analu
+Horário: 19h as 22h30
+S4 Andar-1
+---
+Sexta:
+Aula: Int Desc 
+Prof: Carlos E
+Horário: 19h as 20h40
+S20 Andar-1
+
+Aula: Inglês I
+Prof: Claudia
+Horário: 20h50 - 22h30
+S20 Andar-1
+---
+Sábado
+Aula: Calculo I 
+Prof: Gustavo
+Horário: 9h30 - 13h
+Sala-3 Andar-1
+-----------------------------.
+
+-----------------------------
+Segundo semestre SB: 
+Informações do segundo semestre :
+Segunda 
+Aula: Calculo I 
+Prof: Gustavo
+Horário: 19h as 23h30
+Sala-5 Andar-1
+---
+Terça: 
+Aula: Bio Quimica
+Prof: Luis lávio
+Horário: 19h as 22h30
+S7 Andar-1
+---
+Quarta:
+Horário: 19h as 20h40
+Aula: Ingles II
+Prof: Claudia
+Sala 8 Andar-1
+---
+Quinta:
+Aula: Int D A Comp
+Prof: Carlos E
+Horário: 19h as 20h40
+S12 Andar-2
+
+Aula:Comp Exp II
+Prof: Carlos N
+Horário: 20h50 as 22h30
+S12 Andar-2
+---
+Sexta:
+Aula: A Circuitos 
+Prof: Laercio
+Horário: 19h - 22h30
+S6 Andar-1
+
+---
+Sábado
+Aula: EL Mec Prec I 
+Prof: Tomio
+Horário: 7h40 - 9h30
+S7 Andar-1
+
+Aula: Fis Ap Med II
+Prof: Andres S
+Horário: 9h30 - 13h
+S13 Andar-2
+-----------------------------.
+
+-----------------------------
+Terceiro semestre SB:
+Informações do terceiro semestre :
+Segunda 
+Aula: Micro Aplicada
+Prof: Analu
+Horário: 19h as 23h30
+Sala-4 Andar-1
+---
+Terça: 
+Aula: Estatistica 
+Prof: Viviane F
+Horário: 19h as 22h30
+S2 Andar-1
+---
+Quarta:
+Horário: 19h as 20h40
+Aula: Fund Anat Hum
+Prof: Analu
+Sala-4 Andar-1
+
+Horário: 20h50 - 22h30
+Aula: MPCT
+Prof: Analu
+L6 Andar 2
+---
+Quinta:
+Aula: Tec Mat
+Prof: Alessandro F
+Horário: 19h as 20h40
+S7 Andar-1 
+---
+Sexta:
+Aula: Eletronica
+Prof: Gheralde
+Horário: 19h - 22h30
+S10 Andar-2
+---
+Sábado
+Aula: Opt tec
+Prof: Andres 
+Horário: 7h40 - 9h20
+S13 Andar-2
+
+Aula: Mec Prec II
+Prof: Tomio
+Horário: 9h30 - 13h
+S7 Andar-1
+-----------------------------.
+
+-----------------------------
+Quarto Semestre SB: 
+Informações do quarto semestre :
+Segunda 
+Aula: Eq Med Hosp
+Prof: Willian
+Horário: 19h as 23h30
+L3 Andar-3
+---
+Terça: 
+Aula: Sist Digitais 
+Prof: Leandro
+Horário: 19h as 23h30
+S13 Andar-2
+---
+Quarta:
+Aula: Sist Analógico
+Prof: Marcelo A
+Horário: 19h as 23h30
+L2 ou S18 Andar-3
+---
+Quinta:
+Aula: Fund fis Huma
+Prof: Luis Flavio
+Horário: 19h as 20h40
+S2 Andar-1
+
+Aula: Tec de ab
+Prof: Alessandro F
+Horário: 20h50 as 22h30
+S7 Andar-1
+---
+Sexta:
+Aula: Ins Biom 
+Prof: Gabriel
+Horário: 19h - 20h40
+S4 Andar-1
+
+Aula: Fund de Imun
+Prof: Analu
+Horário: 20h50 - 22h30
+S4 Andar-1
+---
+Sábado
+Aula: Inf Médica
+Prof: Tanaka
+Horário: 9h30 - 13h
+L2/S4 Andar-3
+
+-----------------------------.
+
+-----------------------------
+Quinto Semestre SB: 
+Informações do quinto semestre :
+Segunda 
+Aula: S M Eq Med Hosp
+Prof: Marcelo A
+Horário: 19h as 23h30
+L5 Andar-1 / S13 Andar-2
+---
+Terça: 
+Aula: Manut Sist Biom
+Prof: Willian
+Horário: 19h as 22h30
+S10 Andar-2
+---
+Quarta:
+Horário: 19h as 20h40
+Aula: R C Eq Med Hosp 
+Prof: Willian
+L3 Andar-3 / S3 Andar-1
+---
+Quinta:
+Aula: El Ec Pol Pub S
+Prof: Fernandina
+Horário: 19h as 20h40
+S14 Andar-2
+---
+Sexta:
+Aula: Proc Sinais
+Prof: Otávio
+Horário: 19h - 22h30
+S11 Andar-2
+
+---
+Sábado
+Aula:Tec Automação I
+Prof: Duarte
+Horário: 7h40 - 9h20
+S2 Andar-1
+
+Aula: Prj Eq Med Hosp
+Prof: Alessandro F
+Horário: 9h30 - 13h
+L6/S5 Andar-1
+-----------------------------.
+
+-----------------------------
+Sexto semestre SB:
+Informações do sexto semestre :
+Segunda 
+Aula: Tec Aumotação II
+Prof: Duarte
+Horário: 19h as 23h30
+S7 Andar-1
+---
+Terça: 
+Aula: Hematologia
+Prof: Analu
+Horário: 19h as 20h40
+S4 Andar-1
+
+Aula: Gest Trab Grad
+Prof: Analu
+Horário: 20h50 - 22h30
+S4 Andar-1
+---
+Quarta:
+Horário: 20h50 - 22h30
+Aula: R C A serv Saude
+Prof: Wilian
+L3 Andar-3 / S3 Andar-1
+---
+Quinta:
+Aula: Gest Qual
+Prof: Isabel
+Horário: 19h - 22h30
+S15 Andar-2
+---
+Sexta:
+Aula: Const Eq Med Hosp
+Prof: Marcos 
+Horário: 19h - 22h30
+S3 Andar-1
+
+---
+Sábado
+Aula: Saude Seg Ocup
+Prof: Daniela
+Horário: 7h40 - 9h20
+S3 Andar-1
+
+Aula: Gest Manut
+Prof: Duarte
+Horário: 9h30 - 13h
+S2 Andar 1
+-----------------------------.
+
+-----------------------------
+Informações do 1o semestre ADS Noturno:
+Aguarde Logo teremos informações!!.
+
+-----------------------------
+Informações do 2o semestre ADS Noturno:
+Aguarde Logo teremos informações!!.
+
+-----------------------------
+Informações do 3o semestre ADS Noturno:
+Aguarde Logo teremos informações!!.
+
+-----------------------------
+Informações do 4o semestre ADS Noturno:
+Aguarde Logo teremos informações!!.
+
+-----------------------------
+Informações do 5o semestre ADS Noturno:
+Aguarde Logo teremos informações!!.
+
+-----------------------------
+Informações do 6o semestre ADS Noturno:
+Aguarde Logo teremos informações!!.
+-----------------------------
+
+
+Não fui treinada para responder outras perguntas.
