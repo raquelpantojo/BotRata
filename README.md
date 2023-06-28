@@ -1,4 +1,4 @@
-# BotRata
+# ChatBot
 Desenvolvimento de um bot em Telegram
 
 Requerimentos:
