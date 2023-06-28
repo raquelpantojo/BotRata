@@ -1,5 +1,5 @@
 # ChatBot
-Desenvolvimento de um bot em Telegram
+Desenvolvimento de um chatbot em python para o Telegram
 
 Requerimentos:
 
