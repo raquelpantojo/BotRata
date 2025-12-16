@@ -68,7 +68,7 @@ def Normalize(text):
 
 
 def response(user_response):
-    robo_response = ''
+    robo_response = 'SEU_TOKEN_AQUI'
     stopwords = nltk.corpus.stopwords.words('portuguese')
     sent_tokens.append(user_response)
     TfidfVec = TfidfVectorizer(tokenizer=Normalize, stop_words=stopwords)
